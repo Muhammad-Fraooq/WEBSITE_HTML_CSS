@@ -7,7 +7,7 @@ This project was built using HTML and CSS.
 - [Introduction](#introduction)
 - [About the Project](#about-the-project-ℹ️)
 - [Features](#features-✨)
-- [Technologies Used](#Technologies Used-🚀)
+- [Technologies Used](#Technologies-Used-🚀)
 - [Contact](#contact-📫)
 
 ## Introduction 📖
@@ -29,7 +29,7 @@ This project is designed to showcase my skills in HTML and CSS. It includes a re
 - **Clean Layout** 🧼: A simple and clean layout that is easy to navigate.
 - **Easy to Customize** 🛠️: The code is well-organized and easy to customize for your own needs.
 
-Contact 📫
+## Contact 📫
 If you have any questions, suggestions, or would like to discuss potential collaboration opportunities, feel free to reach out to me:
 
 Name: Muhammad <br>
