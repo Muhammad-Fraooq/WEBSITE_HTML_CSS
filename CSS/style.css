@@ -575,7 +575,7 @@ main {
 }
 
 .section-contact--homepage img {
-    width: 120%;
+    width: 100%;
     height: auto;
     margin-top: -30px;
 }
