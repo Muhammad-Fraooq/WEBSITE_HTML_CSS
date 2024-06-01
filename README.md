@@ -6,8 +6,8 @@ This project was built using HTML and CSS.
 
 - [Introduction](#introduction)
 - [About the Project](#about-the-project-ℹ️)
-- [Features](#features-✨)
 - [Technologies Used](#Technologies-Used-🚀)
+- [Features](#features-✨)
 - [Contact](#contact-📫)
 
 ## Introduction 📖
